@@ -430,13 +430,13 @@ hr {
 
 .tile.tile-2 .tile-inner {
     font-size: 0px;
-    background-image: url('../kuvat/varaslähtö.png');
+    background-image: url('../kuvat/varaslahto.png');
     background-size: cover;
 }
 
 .tile.tile-4 .tile-inner {
     font-size: 0px;
-    background-image: url('../kuvat/Pöhinäparty.png');
+    background-image: url('../kuvat/Pohinaparty.png');
     background-size: cover;
 }
 
@@ -448,19 +448,19 @@ hr {
 
 .tile.tile-16 .tile-inner {
     font-size: 0px;
-    background-image: url('../kuvat/HaalariSitsit.png');
+    background-image: url('../kuvat/Haalarit.png');
     background-size: cover;
 }
 
 .tile.tile-32 .tile-inner {
     font-size: 0px;
-    background-image: url('../kuvat/UnskinPitkä.png');
+    background-image: url('../kuvat/UnskinPitka.png');
     background-size: cover;
 }
 
 .tile.tile-64 .tile-inner {
     font-size: 0px;
-    background-image: url('../kuvat/Vujut\(töis\).png');
+    background-image: url('../kuvat/Vujut\(duunis\).png');
     background-size: cover;
 }
 
@@ -484,7 +484,7 @@ hr {
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
-    background-image: url('../kuvat/Kevätretki.jpg');
+    background-image: url('../kuvat/Kevatretki.jpg');
     background-size: cover;
 }
 
