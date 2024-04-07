@@ -2,8 +2,8 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: #faf8ef;
-    color: #776e65;
+    background: #5e8c64;;
+    color: #000000;
     font-family: "Clear Sans", Helvetica Neue, Arial, sans-serif;
     font-size: 18px;
 }
@@ -185,7 +185,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #bbada0;
+    background: #000000;
     border-radius: 6px;
     width: 500px;
     height: 500px;
@@ -430,74 +430,74 @@ hr {
 
 .tile.tile-2 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/vanilla-cupcake.jpg');
+    background-image: url('../kuvat/varaslähtö.png');
     background-size: cover;
 }
 
 .tile.tile-4 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/strawberry-vanilla-cupcake.jpg');
+    background-image: url('../kuvat/Pöhinäparty.png');
     background-size: cover;
 }
 
 .tile.tile-8 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/lemon-cupcake.jpg');
+    background-image: url('../kuvat/PhuksiSitsit.png');
     background-size: cover;
 }
 
 .tile.tile-16 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/red-velvet-cupcake.jpg');
+    background-image: url('../kuvat/HaalariSitsit.png');
     background-size: cover;
 }
 
 .tile.tile-32 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/mint-cupcake.jpg');
+    background-image: url('../kuvat/UnskinPitkä.png');
     background-size: cover;
 }
 
 .tile.tile-64 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/jumbo-oreo-cupcake.jpg');
+    background-image: url('../kuvat/Vujut\(töis\).png');
     background-size: cover;
 }
 
 .tile.tile-128 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/birthday-cupcake.jpg');
+    background-image: url('../kuvat/Otacruise.png');
     background-size: cover;
 }
 
 .tile.tile-256 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/royal-blue-cupcake.jpg');
+    background-image: url('../kuvat/LaskiasRieha.jpg');
     background-size: cover;
 }
 
 .tile.tile-512 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/caramel-cupcake.jpg');
+    background-image: url('../kuvat/ClubAssasin.jpg');
     background-size: cover;
 }
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/pink-champagne-cupcake.jpg');
+    background-image: url('../kuvat/Kevätretki.jpg');
     background-size: cover;
 }
 
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/christmas-cupcake.jpg');
+    background-image: url('../kuvat/Wappu.jpg');
     /* use ../img/pumpkin-cupcake.jpg for fall */
     background-size: cover;
 }
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
-    background-image: url('../img/gold-cupcake.jpg');
+    background-image: url('../kuvat/Risto.png');
     background-size: cover;
 }
 
